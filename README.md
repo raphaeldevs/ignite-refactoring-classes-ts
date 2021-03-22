@@ -19,7 +19,9 @@ O GoRestaurant é uma aplicação de gerencimento de cardápio para restaurantes
 <h2 align="center">💡</h2>
 Fazer esse desafio foi um pouco trabalhoso mas gostei de fazer. É importante lembrar que muitas aplicações ainda estão escritas em classes e Javascript, o que demanda saber fazer essa migração.
 
-Nesse desafio pude praticar muito sobre Typescript e a configuração do seu ambiente, além de ter a experiência de lidar com uma aplicação já exite e realizar devidas manutenções.
+<br />
+
+Nesse desafio pude praticar muito sobre Typescript e a configuração do seu ambiente, além de ter a experiência de lidar com uma aplicação já existente e realizar devidas manutenções.
 
 ## 🚀 Next Level
 <p align="center">
