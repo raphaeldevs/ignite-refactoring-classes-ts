@@ -26,4 +26,34 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  .react-modal-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
+    background-color: #121214e6;
+  }
+
+  .react-modal-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: #F0F0F5;
+    color: #000000;
+    border-radius: 8px;
+    width: 736px;
+    border: none;
+
+    @media (max-width: 736px) {
+      width: 90%;
+    }
+  }
+
 `;
